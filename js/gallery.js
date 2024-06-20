@@ -85,5 +85,6 @@ galleryContainer.addEventListener('click', (event) => {
         <img src="${originalImageURL}" width="800" height="600">
     `);
     instance.show();
-});
+}
+);
 
